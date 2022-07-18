@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Белые вино",
+      "tags": [
+        "code",
+        "HTML",
+        "css",
+        "coding",
+        "work"
+      ],
+      "description": "Lorem ipsum dolor sit amelaceat porro Lorem ipsum dolor sit amet, consecteturadipisicing elit. Aperiam dolore explicabomollitia numquam voluptate? Cumque eligendilaborum magnam molestiae omnis placeat porroLorem ipsum dolor sit amet, consecteturadipisicing elit. Aperiam dolore explicabomollitia numquam voluptate? Cumque eligendilaborum magnam molestiae omnis placeat porroLorem ipsum dolor sit amet, consecteturadipisicing elit. Aperiam dolore explicabomollitia numquam voluptate? Cumque eligendilaborum magnam molestiae omnis placeat porro "
+    },
+    {
+      "id": 2,
+      "title": "Черный человек",
+      "tags": [
+        "Vue",
+        "React",
+        "JS",
+        "FrontEnd"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consecteturadipisicing elit. Aperiam dolore explicabomollitia numquam voluptate? Cumque eligendilaborum magnam molestiae omnis placeat porro"
+    },
+    {
+      "id": 3,
+      "title": "Желтый кот",
+      "tags": [
+        "css",
+        "HTML"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consecteturadipisicing elit. Aperiam dolore explicabomollitia numquam voluptate? Cumque eligendilaborum magnam molestiae omnis placeat porro"
+    },
+    {
+      "title": "GoGo",
+      "description": "GoGo",
+      "tags": [],
+      "id": 4
+    },
+    {
+      "title": "tetx",
+      "description": "efhnk",
+      "tags": [],
+      "id": 5
+    },
+    {
+      "title": "gasdm;lasm",
+      "description": ";ksma;dm",
+      "tags": [
+        "SS",
+        "SDD",
+        "D",
+        "F"
+      ],
+      "id": 6
+    },
+    {
+      "title": "New",
+      "description": "as",
+      "tags": [
+        "S,F",
+        "FS",
+        "EF",
+        "ER",
+        "G",
+        "RG"
+      ],
+      "id": 7
+    }
+  ]
+}
